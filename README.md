@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach Me->> trishit.gupta2610@gmail.com
 
+[![@trishitgupta's Holopin board](https://holopin.me/trishitgupta)](https://holopin.io/@trishitgupta)
+
+
 <!---
 trishitgupta/trishitgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
